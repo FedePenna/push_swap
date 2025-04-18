@@ -26,7 +26,7 @@ Possible questions:
 
 Why a Small_sort
 |
--The radix makes a lot of moves, enough to get an 84, but one of the checkmarks on the correction sheet says that for stacks with a size <= 5 has to make 12 moves or less, so you have to do it.
+- The radix makes a lot of moves, enough to get an 84, but one of the checkmarks on the correction sheet says that for stacks with a size <= 5 has to make 12 moves or less, so you have to do it.
 
 Why the radix
 |
